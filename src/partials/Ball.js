@@ -29,7 +29,7 @@ export default class Ball {
 
     paddleCollision(player1, player2) {
         if (this.vx > 0) {
-            let paddle = player2.coordinates (
+            let paddle = player2.coordinates(
                 player2.x,
                 player2.y,
                 player2.width,
@@ -47,7 +47,7 @@ export default class Ball {
                 this.ping.play();
             }
         } else {
-            let paddle = player1.coordinates (
+            let paddle = player1.coordinates(
                 player1.x,
                 player1.y,
                 player1.width,
