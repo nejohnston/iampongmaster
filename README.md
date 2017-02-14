@@ -7,13 +7,11 @@ An interactive pong game using SVGs. Focusing on Object Orientated Programming i
 # My Learning Outcomes
 
 This project introduced us to _Object-Orientated Programming (OOP)_. _OOP_ is a method of programming that enables you to simply
-create an object in your code. This object could be anything, but in relation to English it is seen as a noun. A noun can be
+create an object in your code. This object could be anything, but in relation to English it is known as a noun. A noun can be
 described with adjectives and can be *moved* with verbs. These adjectives and verbs, in OOP, are referred to as properties and
-methods respectively. Two examples of my dog's properties are her name, Sadie, and her color, black. Examples that are not
-properties of my dog are walking, eating, or sleeping. These are all methods of my dog. An example of a method that would not
-be able to be called is petting. Although it is a method, that would be an object (person) acting upon another object (dog).
+methods respectively. An example property of my dog would be her name, Sadie. An example method would be walking or eating.
 
-Now the question remains: how do we group these awesome objects with their properties and methods? The answer is _Classes_!
+Now the question remains: how do we group these objects with their properties and methods? The answer is _Classes_!
 Classes act as a blueprint for objects, and the computer builds the object. Furthermore, this makes for readily reusable code
 (more on that to come). For now, lets look at an example of the object _Dog_:
 
