@@ -63,8 +63,10 @@ classes to define properties of objects; and used methods to create the active e
 we created new instances of classes in foreign files by way of importing and exporting. OOP is awesome because it not only
 organizes JavaScript but also makes the syntax straightforward. Can confirm OOP is awesome!!!
 
-*This is a snippet of code from the winner's banner. Exported by _Winner.js_, it is imported by _Game.js_.*
+*This is the banner displayed to pong's winning player. As you can see, the properties color, font-family, x/y position and font-size in the following code are all apparent.*
+![Resulting Winner Banner from following code snippet](./public/screenshots/winner-banner.png)
+
+*This is the snippet of code from the winner's banner. Exported by _Winner.js_, it is imported by _Game.js_.*
 ![Pong Winner Banner code snippet](./public/screenshots/winner-snippet.png)
 
-*This is the resulting banner. As you can see, the color, font-family, x/y position etc. in the code are all apparent.*
-![Resulting Winner Banner from code snippet](./public/screenshots/winner-banner.png)
+
