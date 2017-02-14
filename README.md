@@ -1,8 +1,8 @@
 # Pong Game
 
-An interactive pong game using SVGs. Focusing on _Object Orientated Programming_ in JavaScript.
+An interactive pong game using SVGs. Focusing on Object Orientated Programming in JavaScript.
 
-<img './public/screenshots/pong-snippet.png'/>
+![Pong!](./public/screenshots/pong-snippet.png)
 
 # My Learning Outcomes
 
@@ -61,10 +61,10 @@ import Dog from "./hello.js";</code></pre>
 Conclusively, our Pong project was fundamentally an elaborate portrayal of OOP. We created objects with classes; used constructor
 classes to define properties of objects; and used methods to create the active elements of Pong's svg's. Furthermore,
 we created new instances of classes in foreign files by way of importing and exporting. OOP is awesome because it not only
-organizes JavaScript but also makes the syntax straightforward. I love OOP!!!
+organizes JavaScript but also makes the syntax straightforward. Can confirm OOP is awesome!!!
 
-*This is a snippet of finalized code from the winner's banner it is imported by the file _Game.js_.*
-<img './public/screenshots/winner-snippet.png'/>
+*This is a snippet of code from the winner's banner. Exported by _Winner.js_, it is imported by _Game.js_.*
+![Pong Winner Banner code snippet](./public/screenshots/winner-snippet.png)
 
 *This is the resulting banner. As you can see, the color, font-family, x/y position etc. in the code are all apparent.*
-<img './public/screenshots/winner-banner.png'/>
+![Resulting Winner Banner from code snippet](./public/screenshots/winner-banner.png)
