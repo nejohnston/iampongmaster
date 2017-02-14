@@ -56,10 +56,10 @@ beg() {
 // world.js file importing Class Dog from file hello.js 
 import Dog from "./hello.js";</code></pre>
 
-*This is the banner displayed to pong's winning player. As you can see, the properties color, font-family, x/y position and font-size in the following code are all apparent.*
-
 *This is the snippet of code from the winner's banner. Exported by _Winner.js_, it is imported by _Game.js_.*
 ![Pong Winner Banner code snippet](./public/screenshots/winner-snippet.png)
+
+*This is the banner displayed to pong's winning player. As you can see, the properties color, font-family, x/y position and font-size in the following code are all apparent.*
 ![Resulting Winner Banner from following code snippet](./public/screenshots/winner-banner.png)
 
 Conclusively, our Pong project was fundamentally an elaborate portrayal of OOP. We created objects with classes; used constructor
