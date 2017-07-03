@@ -86,5 +86,18 @@ h1 {
 }
 
 button {
-
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  height: 3rem;
+  width: 4rem;
+  background-color: magenta;
+  outline: none;
+}
+button::hover {
+  background-color: transparent;
+  outline: 2px solid magenta;
+}
+a {
+  text-align: center;
 }
