@@ -1,3 +1,5 @@
+import './styles/reset.css';
+import './styles/fonts.css';
 import './styles/game.css';
 import Game from './partials/Game'
 
