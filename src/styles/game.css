@@ -85,7 +85,7 @@ h1 {
   text-align: center;
 }
 
-button {
+.rick-roll-button {
   margin-left: auto;
   margin-right: auto;
   color: white;
@@ -94,10 +94,12 @@ button {
   background-color: magenta;
   outline: none;
 }
-button::hover {
+.rick-roll-button:hover {
   background-color: transparent;
   outline: 2px solid magenta;
+  color: magenta;
 }
 a {
   text-align: center;
+  text-decoration: none;
 }
